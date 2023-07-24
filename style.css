@@ -1,0 +1,13 @@
+.card{
+    border: 1px solid black;
+    text-align: center;
+    margin: 60px;
+    padding-bottom: 60px;
+    background-color: burlywood;
+    box-shadow: 0px 0px 8px 8px;
+}
+body{
+    background-image: url(./assert/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
